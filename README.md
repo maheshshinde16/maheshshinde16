@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahesh Shinde</h1>
-<h3 align="center">A computer engineering student with a strong passion for technology and learning. A beginner in Python, JavaScript, C++, and Java, exploring DevOps tools like Docker and Kubernetes. Excited to collaborate, contribute, and grow as a developer.</h3>
+<h3 align="center">A computer engineering student with a strong passion for technology and learning. A beginner in Python, JavaScript, C++, and Java. Excited to collaborate, contribute, and grow as a developer.</h3>
 
 - 🌱 I’m currently learning **Python**
-- 📫 How to reach me [@mahesh-diwan](https://github.com/maheshshinde16)
+- 📫 How to reach me [@maheshshinde16](https://github.com/maheshshinde16)
 
 
 
